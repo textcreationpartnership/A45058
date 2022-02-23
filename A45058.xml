@@ -1,0 +1,269 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition of the members of the Common-Council of the city of London</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45058</idno>
+            <idno type="STC">Wing H3560</idno>
+            <idno type="STC">ESTC R30353</idno>
+            <idno type="EEBO-CITATION">11299451</idno>
+            <idno type="OCLC">ocm 11299451</idno>
+            <idno type="VID">47352</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45058)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47352)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1464:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition of the members of the Common-Council of the city of London</title>
+                  <author>City of London (England). Court of Common Council.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Braddyll and R. Everingham ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXC [1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>At head of title: to the honourable the knights, citizens and burgesses in Parliament assembled.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quo warranto.</term>
+               <term>London (England) --  History --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:47352:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 28 -->
+            <head>TO THE HONOURABLE THE <hi>Knights, Citizens and Burgeſſes,</hi> IN PARLIAMENT ASSEMBLED, <hi>The Humble<g ref="char:cmbAbbrStroke">̄</g> PETITION of the Members of the Common-Council of the City of <hi>LONDON,</hi> here<g ref="char:EOLhyphen"/>unto Subſcribing.</hi>
+            </head>
+            <opener>SHEWETH,</opener>
+            <p>THat your Petitioners humbly conceived and hoped, That the late Act of Parliament for Reverſing the Judgment in the <hi>Quo Warranto</hi> a<g ref="char:EOLhyphen"/>gainſt the ſaid City, would have reſtored the City to its ancient Rights and Priviledges; but the contrary happening, your Petitioners beg leave to repreſent to this Honourable Houſe,</p>
+            <p>That notwithſtanding the ſaid Act, ſeveral Aldermen of the ſaid City, made or elected by virtue of Commiſſions or Charters from the late King <hi>James</hi> under his Great Seal, Act ſtill as Aldermen by that Authority, under pretence, That by ſome doubtful Expreſſions in the ſaid Act, they are continued, as well as Mi<g ref="char:EOLhyphen"/>niſterial Officers.</p>
+            <p>That by colour of their aſſumed Authority and illegal Proceedings, Sir <hi>Thomas Pilkington</hi> was by them, on the day of Election appointed by the ſaid Act, de<g ref="char:EOLhyphen"/>clared and made Mayor, though not duly Returned by the Common-Hall, ac<g ref="char:EOLhyphen"/>cording to the Uſage of the City.</p>
+            <p>That by the contrivance of the ſaid Mayor and Aldermen, Mr. <hi>Leonard Ro<g ref="char:EOLhyphen"/>binſon</hi> is impoſed on your Petitioners as Chamberlain of the City, notwithſtanding another Perſon was duly elected into that Office, and declared ſo to be by the Sheriffs; and the Hall thereupon diſſolved.</p>
+            <p>That divers Members of our Common-Council are illegally excluded; and others, duly elected, are refuſed their Admittances.</p>
+            <p>That the Place of Town-Clerk having been vacant three Months and up<g ref="char:EOLhyphen"/>wards (an Office of great Truſt in the City) and only eligible by, and in, Com<g ref="char:EOLhyphen"/>mon-Council, the ſaid Mayor and Aldermen have, of their own Authority, ap<g ref="char:EOLhyphen"/>pointed ſeveral Perſons to the Execution thereof, without the Conſent of the Com<g ref="char:EOLhyphen"/>mon-Council, againſt the conſtant known Rights of your Petitioners.</p>
+            <p>That your Petitioners have not been ſuffered to meet and conſuit about the neceſſary Affairs of the City, according to their Ancient Rights and Cuſtoms.</p>
+            <p>
+               <pb facs="tcp:47352:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 29 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:47352:3"/>
+               <!-- PDF PAGE 30 -->
+That a Common-Council being ſummoned and aſſembled, about the third Day of <hi>October,</hi> many Debates ariſing concerning the Premiſes, and ſeveral Mo<g ref="char:EOLhyphen"/>tions being made, and the Majority of the Common-Council agreeing, That for ſettling the Rights of the City, an humble Addreſs ſhould be made to this Ho<g ref="char:EOLhyphen"/>nourable Houſe to explain the ſaid Act: And thereupon the Queſtion being de<g ref="char:EOLhyphen"/>ſired to be put, the ſaid Mayor refuſed it; and to prevent any ſuch Application, immediately diſſolved the Court, and went away.</p>
+            <p>Wherefore your Petitioners having, by theſe evil Practices, all their ancient Rights and Priviledges invaded, and neither Mayor, Court of Aldermen, Sheriffs, Chamberlain, Common Council, or Town-Clerk, as of Right they ought to have; and being elſewhere without Remedy, humbly pray ſuch Relief in the Premiſes, as ſhall conſiſt with the Wiſdom and Juſtice of this Honourable Houſe.</p>
+            <closer>
+               <signed>And your Petitioners, as in Duty bound, ſhall ever pray,<hi>&amp;c.</hi>
+                  <list>
+                     <item>Will. Dodſon,</item>
+                     <item>Ralph Box,</item>
+                     <item>Richard Alie,</item>
+                     <item>Will. Withers,</item>
+                     <item>Richard Holder,</item>
+                     <item>Rob. Bedingfield,</item>
+                     <item>John Midgley,</item>
+                     <item>Nich. Alexander,</item>
+                     <item>John Wright,</item>
+                     <item>John Genew,</item>
+                     <item>Mich. Preſcott,</item>
+                     <item>Dan. Templeman,</item>
+                     <item>Tho. Mills,</item>
+                     <item>Tho. Siſſan,</item>
+                     <item>James Oades,</item>
+                     <item>John Hardrett,</item>
+                     <item>John Owen,</item>
+                     <item>Peter Pickering,</item>
+                     <item>Will. Saltmarſh,</item>
+                     <item>Edw. Aſton,</item>
+                     <item>Hugh Strode,</item>
+                     <item>Will. Wocdroffe,</item>
+                     <item>Tho. Blackmore,</item>
+                     <item>Abraham Jaggard,</item>
+                     <item>Tho: Rogers,</item>
+                     <item>Geo. Bearcroft,</item>
+                     <item>Rob. Maſter,</item>
+                     <item>James Cooke,</item>
+                     <item>Tho. Darwin,</item>
+                     <item>Rich. Beauchamp,</item>
+                     <item>Will. Thatcher,</item>
+                     <item>Iſrael Knowles,</item>
+                     <item>John Slyford,</item>
+                     <item>Tho. Gardiner,</item>
+                     <item>John Groſſe,</item>
+                     <item>John Bland,</item>
+                     <item>Iſaac Brand,</item>
+                     <item>Henry Lewes,</item>
+                     <item>James Hudſon,</item>
+                     <item>Ben. Ayloffe,</item>
+                     <item>John Weſt,</item>
+                     <item>John Knapp,</item>
+                     <item>John Johnſon;</item>
+                     <item>Fran. Brerewood,</item>
+                     <item>Rich. Goodall,</item>
+                     <item>Anth. Gregory,</item>
+                     <item>Tho. Salter,</item>
+                     <item>Will. Lewes,</item>
+                     <item>Peter Floyer,</item>
+                     <item>Rob. Littlebury,</item>
+                     <item>John. Moore,</item>
+                     <item>Will: Fownes,</item>
+                     <item>John Webb,</item>
+                     <item>Fran. Minſhall,</item>
+                     <item>Will. Yate,</item>
+                     <item>John Greene,</item>
+                     <item>Percival Gitborn,</item>
+                     <item>Edw. Herne,</item>
+                     <item>Will. Rous,</item>
+                     <item>Tho. Symons,</item>
+                     <item>Jolim Moore,</item>
+                     <item>Law. Goles,</item>
+                     <item>Geo. Newland,</item>
+                     <item>Jawes Woods,</item>
+                     <item>John Cooper,</item>
+                     <item>Mich. Symonds,</item>
+                     <item>Cha. Feltham,</item>
+                     <item>John Blake,</item>
+                     <item>James Smith,</item>
+                     <item>John Kent,</item>
+                     <item>Paul Wides,</item>
+                     <item>Sarm Gerrard,</item>
+                     <item>Symen Wilmott,</item>
+                     <item>John Domley,</item>
+                     <item>Will. Strange,</item>
+                     <item>John Saunders,</item>
+                     <item>Eaw. Morſe,</item>
+                     <item>Nich. Smith,</item>
+                     <item>John Weſthrooke,</item>
+                     <item>Tho. Langham,</item>
+                     <item>Walter Coventrye,</item>
+                     <item>John Cooke,</item>
+                     <item>Henry Clerke,</item>
+                     <item>Rich Yerbury,</item>
+                     <item>Ralph Izard,</item>
+                     <item>Edw. Shaller,</item>
+                     <item>Erad Norman,</item>
+                     <item>Jawer Clement,</item>
+                     <item>Rich. Edmondſon,</item>
+                     <item>Rich. Hoare,</item>
+                     <item>Will, Pett,</item>
+                     <item>Rich. Weedon,</item>
+                     <item>Sam. Ongley,</item>
+                     <item>Geo. Benſon,</item>
+                     <item>The. Short,</item>
+                     <item>Sam. Leake,</item>
+                     <item>Auguſtin Marriot,</item>
+                     <item>John Sawyer,</item>
+                     <item>Will. Reeve,</item>
+                     <item>Roger Reeve,</item>
+                     <item>Fran. Griffith,</item>
+                     <item>Tho. Templer,</item>
+                     <item>Sam. Clerke,</item>
+                     <item>Geo. Coke,</item>
+                     <item>John Stevenſon,</item>
+                     <item>Jer. Wayte,</item>
+                     <item>Jer. Elwes,</item>
+                     <item>Reb. Brough,</item>
+                     <item>Sam. Walton.</item>
+                     <item>Rich. Hamond,</item>
+                     <item>John Foſter,</item>
+                     <item>John Freeman,</item>
+                     <item>Dan. Browne,</item>
+                     <item>Phil. Scarth,</item>
+                     <item>James Foulis,</item>
+                     <item>Edw. Polhill,</item>
+                     <item>W. Pellatt.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON.</hi> Printed by <hi>T. Braddyll,</hi> and <hi>R. Everingham,</hi> and are to be ſold at the <hi>Seven Stars</hi> in <hi>Ave-Mary lane.</hi> MDCXC.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
